@@ -167,3 +167,6 @@ ldpred score
 [^3]: https://github.com/privefl/paper-misspec/tree/main/code
 [^4]: [Q and A · bvilhjal/ldpred Wiki (github.com)](https://github.com/bvilhjal/ldpred/wiki/Q-and-A)
 [^5]: [2. QC of Target Data - Basic Tutorial for Polygenic Risk Score Analyses (choishingwan.github.io)](https://choishingwan.github.io/PRS-Tutorial/target/)
+
+
+If you have any questions, please contact: gesangmeiduo@pku.edu.cn
